@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "284789977743",
+    "project_id": "covidcare-99dcd",
+    "storage_bucket": "covidcare-99dcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284789977743:android:9929f163d6e9bb5341f6fa",
+        "android_client_info": {
+          "package_name": "com.example.efficient_person_tracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284789977743-6c76ult6032fv6ju1gfulau0f9b6olph.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.efficient_person_tracking",
+            "certificate_hash": "306a70021140ffbc4465e7098ba0c931d8f8e865"
+          }
+        },
+        {
+          "client_id": "284789977743-3qbo1qp5q6m4am6ojljhlmr9fgd0inv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6UTe0IVk8JogLtpyVpi_i-80hADXQXC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284789977743-3qbo1qp5q6m4am6ojljhlmr9fgd0inv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

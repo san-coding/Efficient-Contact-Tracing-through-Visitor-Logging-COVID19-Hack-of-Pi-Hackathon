@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/full stack todo app using flutter/backend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/full stack todo app using flutter/frontend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/grocery" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jam_app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lets_walk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/search_delegate_firebase_example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/shopx/backend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/shopx/frontend/shopx_frontend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/theSocialConnect" vcs="Git" />
+  </component>
+</project>
